@@ -35,3 +35,21 @@ p {
   background-color: hsl(264, 40%, 59%);
 }
 </style>
+<style type="text/css">
+body{
+  text-align:center
+}
+body {
+background-color: silver;
+color: white;
+padding: 20px;
+font-family: FreeMono, monospace;
+text-align:center}
+ul{
+  text-align:left
+}
+h2 {
+  background-color: #8F70BC;
+  background-color: hsl(264, 40%, 59%);
+}
+</style>
